@@ -59,4 +59,8 @@ elif 'y' in nos.lower():
 # Notes about Dicewords https://theworld.com/~reinhold/diceware.html#:~:text=Diceware%E2%84%A2%20is%20a%20method,by%20a%20five%20digit%20number
 #playing with entropy https://www.pleacher.com/mp/mlessons/algebra/entropy.html
 #writing log functions in python https://www.geeksforgeeks.org/log-functions-python/
-#notes on calculating CPU hours
+#https://en.wikipedia.org/wiki/Password_strength#Entropy_as_a_measure_of_password_strength
+#notes on calculating CPU hours http://www.gridrepublic.org/joomla/components/com_mambowiki/index.php/GFlops,_G-hours,_and_CPU_hours
+#amount of time each thread of the computer has run and then the sum for ea computer
+# Choosing Password char amount, ie, 3 nos, 3 chars, etc
+#https://docs.python.org/3/library/secrets.html#:~:text=The%20text%20is%20Base64%20encoded,a%20reasonable%20default%20is%20used.
